@@ -1,7 +1,7 @@
 DontGetLost
 ===========
 
-An opensource GPS based tracking application. 
+An opensource GPS based tracking application for Android. 
 
 Now the map can display moving marker showing the real distance from the start of the track, 
 distance to finish, speed and elevation. Use bottom slider control to move marker along the track. 
